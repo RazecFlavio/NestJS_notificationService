@@ -1,0 +1,19 @@
+Apache Kafka
+
+Producers
+
+Consumers
+
+-modulo do nest de microservices.
+
+npm i @nestjs/microservices
+
+-pacote nativo do Kafka
+
+npm i kafkajs 
+
+IR NO CANAL DA ROCKET E ASSISTIR 3 VIDEOS DE microservices.
+IR NO CANAL DA ROCKET E ASSISTIR 3 VIDEOS DE microservices.
+IR NO CANAL DA ROCKET E ASSISTIR 3 VIDEOS DE microservices.
+IR NO CANAL DA ROCKET E ASSISTIR 3 VIDEOS DE microservices.
+IR NO CANAL DA ROCKET E ASSISTIR 3 VIDEOS DE microservices.
